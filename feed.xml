@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Español de mis lecturas</title>
+    <link>https://benawise.github.io/estudio-podcast/</link>
+    <language>es</language>
+    <description>Una lección diaria para decir en voz alta las expresiones que he buscado leyendo.</description>
+    <copyright>Estudio</copyright>
+    <atom:link href="https://benawise.github.io/estudio-podcast/feed.xml" rel="self" type="application/rss+xml" />
+    <itunes:author>Estudio</itunes:author>
+    <itunes:summary>Una lección diaria para decir en voz alta las expresiones que he buscado leyendo.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>Yes</itunes:block>
+    <itunes:owner>
+      <itunes:name>Estudio</itunes:name>
+      <itunes:email>owner@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://benawise.github.io/estudio-podcast/cover.png" />
+    <image>
+      <url>https://benawise.github.io/estudio-podcast/cover.png</url>
+      <title>Español de mis lecturas</title>
+      <link>https://benawise.github.io/estudio-podcast/</link>
+    </image>
+    <itunes:category text="Education">
+      <itunes:category text="Language Learning" />
+    </itunes:category>
+    <lastBuildDate>Fri, 13 Nov 2026 12:27:03 +0000</lastBuildDate>
+    <item>
+      <title>La visita de la inmobiliaria</title>
+      <description>Después de que un agente inmobiliario visite el piso, Marta y Javier sospechan que el comprador interesado es Daniel y que el casero juega a favor de los suyos. Nuevas: barrer para casa, brillar por su ausencia, rondar los (cuarenta).</description>
+      <guid isPermaLink="false">kindle-vocab-podcast-2026-11-13</guid>
+      <pubDate>Fri, 13 Nov 2026 12:27:03 +0000</pubDate>
+      <enclosure url="https://benawise.github.io/estudio-podcast/2026-11-13.mp3" length="2908034" type="audio/mpeg" />
+      <itunes:duration>363</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Un nombre en clave para el ex</title>
+      <description>En el mercado de San Fernando, Javier le enseña a Marta el mensaje de Daniel y ambos deciden cómo hablar de él sin que nadie se entere. Nuevas: nombre en clave, tener lo suyo, no ir con alguien.</description>
+      <guid isPermaLink="false">kindle-vocab-podcast-2026-11-12-b</guid>
+      <pubDate>Thu, 12 Nov 2026 19:22:39 +0000</pubDate>
+      <enclosure url="https://benawise.github.io/estudio-podcast/2026-11-12.mp3" length="2690278" type="audio/mpeg" />
+      <itunes:duration>336</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Un correo del casero</title>
+      <description>Marta y Javier, que comparten piso en Lavapiés, reciben un correo de su casero anunciando que vende el piso, y la posdata trae una sorpresa que nadie esperaba. Nuevas: si bien, desbordar a alguien, dejar a alguien de piedra.</description>
+      <guid isPermaLink="false">kindle-vocab-podcast-2026-11-11</guid>
+      <pubDate>Wed, 11 Nov 2026 14:32:53 +0000</pubDate>
+      <enclosure url="https://benawise.github.io/estudio-podcast/2026-11-11.mp3" length="4793439" type="audio/mpeg" />
+      <itunes:duration>599</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
