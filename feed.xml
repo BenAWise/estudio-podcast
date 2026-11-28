@@ -1,0 +1,228 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Español de mis lecturas</title>
+    <link>https://benawise.github.io/estudio-podcast/</link>
+    <language>es</language>
+    <description>Una lección diaria para decir en voz alta las expresiones que he buscado leyendo.</description>
+    <copyright>Estudio</copyright>
+    <atom:link href="https://benawise.github.io/estudio-podcast/feed.xml" rel="self" type="application/rss+xml" />
+    <itunes:author>Estudio</itunes:author>
+    <itunes:summary>Una lección diaria para decir en voz alta las expresiones que he buscado leyendo.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>Yes</itunes:block>
+    <itunes:owner>
+      <itunes:name>Estudio</itunes:name>
+      <itunes:email>owner@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://benawise.github.io/estudio-podcast/cover.png" />
+    <image>
+      <url>https://benawise.github.io/estudio-podcast/cover.png</url>
+      <title>Español de mis lecturas</title>
+      <link>https://benawise.github.io/estudio-podcast/</link>
+    </image>
+    <itunes:category text="Education">
+      <itunes:category text="Language Learning" />
+    </itunes:category>
+    <lastBuildDate>Sat, 28 Nov 2026 06:23:07 +0000</lastBuildDate>
+    <item>
+      <title>Una pantalla rota y un baúl en el trastero</title>
+      <description>En una tienda de reparaciones de la Chana alguien lleva un móvil con la pantalla rota, y por teléfono pide a un ebanista de la calle Elvira que le restaure el baúl de su abuela. Nuevas: no inmutarse, ir con pies de plomo, tener algo en contra, abarrotado.</description>
+      <guid isPermaLink="false">kindle-vocab-podcast-2026-11-29</guid>
+      <pubDate>Sat, 28 Nov 2026 06:23:07 +0000</pubDate>
+      <enclosure url="https://benawise.github.io/estudio-podcast/2026-11-29.mp3" length="7529423" type="audio/mpeg" />
+      <itunes:duration>941</itunes:duration>
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Lotería en el portal y una herencia en la gestoría</title>
+      <description>En el portal de un bloque de vecinos alguien compra lotería de Navidad a la presidenta de la comunidad, y en una gestoría de la calle Recogidas entrega los papeles de la herencia de una amiga. Nuevas: ¡y que lo digas!, ¡faltaría más!, librarse (de algo), quedarse tocado.</description>
+      <guid isPermaLink="false">kindle-vocab-podcast-2026-11-28</guid>
+      <pubDate>Fri, 27 Nov 2026 08:20:39 +0000</pubDate>
+      <enclosure url="https://benawise.github.io/estudio-podcast/2026-11-28.mp3" length="9401889" type="audio/mpeg" />
+      <itunes:duration>1175</itunes:duration>
+      <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Una estantería de nogal y unas llaves en el bar</title>
+      <description>En un taller de ebanistería de la calle Elvira alguien encarga una estantería para la cocina, y en un bar del Realejo deja unas llaves para un amigo que llega tarde en tren. Nuevas: hora punta, y más (en / si / cuando…), tal que así, no ser quién para (+ inf.).</description>
+      <guid isPermaLink="false">kindle-vocab-podcast-2026-11-27</guid>
+      <pubDate>Thu, 26 Nov 2026 07:00:58 +0000</pubDate>
+      <enclosure url="https://benawise.github.io/estudio-podcast/2026-11-27.mp3" length="8083224" type="audio/mpeg" />
+      <itunes:duration>1010</itunes:duration>
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Un día libre para los análisis y unas chirimoyas</title>
+      <description>En la consulta de la médica de familia alguien pide unos análisis para su día libre, y en el Mercado de San Agustín busca chirimoyas después de pasar por una tienda carísima del centro. Nuevas: librar, mirar a alguien por encima del hombro, dejarse la piel (en algo), disparate.</description>
+      <guid isPermaLink="false">kindle-vocab-podcast-2026-11-26</guid>
+      <pubDate>Wed, 25 Nov 2026 07:02:46 +0000</pubDate>
+      <enclosure url="https://benawise.github.io/estudio-podcast/2026-11-26.mp3" length="8401920" type="audio/mpeg" />
+      <itunes:duration>1050</itunes:duration>
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Un dron para el sobrino y una mesa para el partido</title>
+      <description>En una tienda de la Chana alguien busca un dron para regalarle a su sobrino, y en un bar del Realejo reserva mesa para ver al Granada justo después de que echen al entrenador. Nuevas: hacer a alguien (+ adjetivo), no escatimar esfuerzos, pegarse (a alguien) como una lapa, chivo expiatorio.</description>
+      <guid isPermaLink="false">kindle-vocab-podcast-2026-11-25</guid>
+      <pubDate>Tue, 24 Nov 2026 07:01:22 +0000</pubDate>
+      <enclosure url="https://benawise.github.io/estudio-podcast/2026-11-25.mp3" length="7480320" type="audio/mpeg" />
+      <itunes:duration>935</itunes:duration>
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Una gotera y una carta de Hacienda</title>
+      <description>En el portal de un bloque de vecinos, una gotera que llega hasta la presidenta de la comunidad, y en una gestoría de la calle Recogidas, una carta de Hacienda que nadie entiende. Nuevas: punto de partida, acertar, no por (+ infinitivo) ser menos (verdad, cierto…), bien entrado/a (la tarde, la noche, los setenta…).</description>
+      <guid isPermaLink="false">kindle-vocab-podcast-2026-11-24</guid>
+      <pubDate>Mon, 23 Nov 2026 07:01:50 +0000</pubDate>
+      <enclosure url="https://benawise.github.io/estudio-podcast/2026-11-24.mp3" length="8028458" type="audio/mpeg" />
+      <itunes:duration>1004</itunes:duration>
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Cartas sin dueño y una silla rota</title>
+      <description>En un bar del Realejo alguien busca al antiguo inquilino de su piso, y en un taller de la calle Elvira lleva a arreglar una silla que se rompió en plena cena. Nuevas: paradero, ¡haber + participio! (reproche), bastante tengo con lo que tengo, hacer quedar a alguien como (un tonto, un idiota…).</description>
+      <guid isPermaLink="false">kindle-vocab-podcast-2026-11-23</guid>
+      <pubDate>Sun, 22 Nov 2026 07:08:49 +0000</pubDate>
+      <enclosure url="https://benawise.github.io/estudio-podcast/2026-11-23.mp3" length="6655880" type="audio/mpeg" />
+      <itunes:duration>832</itunes:duration>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Un cuello agarrotado y una bolsa rota</title>
+      <description>Una visita a la médica de familia del barrio por un cuello agarrotado, y una vuelta al puesto de fruta del Mercado de San Agustín después de que se rompa la bolsa. Nuevas: atontado, hacer trizas algo, agarrotado, dar de sí.</description>
+      <guid isPermaLink="false">kindle-vocab-podcast-2026-11-22-b</guid>
+      <pubDate>Sat, 21 Nov 2026 12:45:16 +0000</pubDate>
+      <enclosure url="https://benawise.github.io/estudio-podcast/2026-11-22.mp3" length="6695589" type="audio/mpeg" />
+      <itunes:duration>837</itunes:duration>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Una pantalla rota en la Chana</title>
+      <description>En una tienda de reparación de móviles de la Chana, alguien lleva un móvil con la pantalla rota después de un mal rato en la tienda oficial. Nuevas: sobrar (algo), ser pan comido, ser susceptible de (+ inf./sust.).</description>
+      <guid isPermaLink="false">kindle-vocab-podcast-2026-11-21</guid>
+      <pubDate>Fri, 20 Nov 2026 09:43:32 +0000</pubDate>
+      <enclosure url="https://benawise.github.io/estudio-podcast/2026-11-21.mp3" length="4933465" type="audio/mpeg" />
+      <itunes:duration>617</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Cambio de clase en el gimnasio</title>
+      <description>En la recepción de un gimnasio de la calle Arabial, en Granada, alguien pide cambiarse de la clase de pilates de las nueve por culpa del monitor nuevo y acaba apuntándose a la de la tarde. Nuevas: estar más perdido que un pulpo en un garaje, mangonear a alguien, tener mano izquierda.</description>
+      <guid isPermaLink="false">kindle-vocab-podcast-2026-11-20</guid>
+      <pubDate>Thu, 19 Nov 2026 20:25:06 +0000</pubDate>
+      <enclosure url="https://benawise.github.io/estudio-podcast/2026-11-20.mp3" length="5772519" type="audio/mpeg" />
+      <itunes:duration>721</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Un favor con el becario nuevo</title>
+      <description>Desayunando en el bar de abajo de la oficina, en Gran Vía, una compañera pide ayuda para echar una mano al becario recién llegado, que lo está pasando mal con el jefe. Nuevas: estar más perdido que un pulpo en un garaje, mangonear a alguien, tener mano izquierda.</description>
+      <guid isPermaLink="false">kindle-vocab-podcast-2026-11-19</guid>
+      <pubDate>Thu, 19 Nov 2026 20:19:25 +0000</pubDate>
+      <enclosure url="https://benawise.github.io/estudio-podcast/2026-11-19.mp3" length="5231261" type="audio/mpeg" />
+      <itunes:duration>654</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Sin telefonillo en el Zaidín</title>
+      <description>Una tarde en casa, en un bloque de la calle Primavera del Zaidín, esperando al técnico porque nadie puede abrir el portal desde arriba, entre vecinos que suben y bajan, llamadas de una amiga y la administradora de la finca. Nuevas: no (+ verbo) gran cosa, telefonillo, de mala gana.</description>
+      <guid isPermaLink="false">kindle-vocab-podcast-2026-11-18</guid>
+      <pubDate>Tue, 17 Nov 2026 19:19:53 +0000</pubDate>
+      <enclosure url="https://benawise.github.io/estudio-podcast/2026-11-18.mp3" length="4919672" type="audio/mpeg" />
+      <itunes:duration>615</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Compra para la cena del sábado</title>
+      <description>Un sábado por la mañana en el Mercado de San Agustín de Granada, haciendo la compra para una cena en casa con amigos, entre puestos, vecinas, llamadas de los invitados y un encargo que no aparece. Nuevas: subir el listón, escueto, apañárselas.</description>
+      <guid isPermaLink="false">kindle-vocab-podcast-2026-11-17</guid>
+      <pubDate>Mon, 16 Nov 2026 17:55:51 +0000</pubDate>
+      <enclosure url="https://benawise.github.io/estudio-podcast/2026-11-17.mp3" length="5027090" type="audio/mpeg" />
+      <itunes:duration>628</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>El coche vuelve del taller</title>
+      <description>Una mesa grasienta en un bar del Realejo, una cita urgente en el centro de salud de la Chana y un coche que vuelve de un taller con el mismo ruido de antes. Nuevas: pringoso, lo suficiente como para (+ inf.), echarle algo en cara a alguien.</description>
+      <guid isPermaLink="false">kindle-vocab-podcast-2026-11-16</guid>
+      <pubDate>Sun, 15 Nov 2026 20:49:17 +0000</pubDate>
+      <enclosure url="https://benawise.github.io/estudio-podcast/2026-11-16.mp3" length="4567747" type="audio/mpeg" />
+      <itunes:duration>571</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ochenta euros en San Nicolás</title>
+      <description>Al caer la tarde en el Mirador de San Nicolás, una restauradora granadina rescata a un recién llegado de Zúrich de un guía demasiado caro, y él no se quiere ir sin su número. Nuevas: con tal de (+ inf.) / con tal de que (+ subj.), cada dos por tres, con suficiencia.</description>
+      <guid isPermaLink="false">kindle-vocab-podcast-2026-11-15</guid>
+      <pubDate>Sun, 15 Nov 2026 12:06:17 +0000</pubDate>
+      <enclosure url="https://benawise.github.io/estudio-podcast/2026-11-15.mp3" length="4656149" type="audio/mpeg" />
+      <itunes:duration>582</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>La visita de la inmobiliaria</title>
+      <description>Después de que un agente inmobiliario visite el piso, Marta y Javier sospechan que el comprador interesado es Daniel y que el casero juega a favor de los suyos. Nuevas: barrer para casa, brillar por su ausencia, rondar los (cuarenta).</description>
+      <guid isPermaLink="false">kindle-vocab-podcast-2026-11-13</guid>
+      <pubDate>Fri, 13 Nov 2026 12:27:03 +0000</pubDate>
+      <enclosure url="https://benawise.github.io/estudio-podcast/2026-11-13.mp3" length="2908034" type="audio/mpeg" />
+      <itunes:duration>363</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Un nombre en clave para el ex</title>
+      <description>En el mercado de San Fernando, Javier le enseña a Marta el mensaje de Daniel y ambos deciden cómo hablar de él sin que nadie se entere. Nuevas: nombre en clave, tener lo suyo, no ir con alguien.</description>
+      <guid isPermaLink="false">kindle-vocab-podcast-2026-11-12-b</guid>
+      <pubDate>Thu, 12 Nov 2026 19:22:39 +0000</pubDate>
+      <enclosure url="https://benawise.github.io/estudio-podcast/2026-11-12.mp3" length="2690278" type="audio/mpeg" />
+      <itunes:duration>336</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Un correo del casero</title>
+      <description>Marta y Javier, que comparten piso en Lavapiés, reciben un correo de su casero anunciando que vende el piso, y la posdata trae una sorpresa que nadie esperaba. Nuevas: si bien, desbordar a alguien, dejar a alguien de piedra.</description>
+      <guid isPermaLink="false">kindle-vocab-podcast-2026-11-11</guid>
+      <pubDate>Wed, 11 Nov 2026 14:32:53 +0000</pubDate>
+      <enclosure url="https://benawise.github.io/estudio-podcast/2026-11-11.mp3" length="4793439" type="audio/mpeg" />
+      <itunes:duration>599</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
